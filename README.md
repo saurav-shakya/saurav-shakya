@@ -1,5 +1,8 @@
 Here's a README file that specifically focuses on you, Saurav Singh, and the projects you're working on:
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=saurav-shakya&color=brightgreen&style=flat-square)
+
 ---
 
 # Hii, MY self Saurav Singh
