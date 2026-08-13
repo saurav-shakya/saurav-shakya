@@ -5,16 +5,22 @@
 
 ---
 
-# Hii, MY self Saurav Singh
+# Hi, I'm Saurav
 
-## About Me 👋
+BTech Computer Science student, builder, and startup founder focused on AI, research tools, and products people actually use.
 
-Hello! I'm **Saurav Singh**, At just 18 years old, I’m a passionate tech enthusiast with a keen interest in **AI/ML**. I thrive on learning and am dedicated to creating innovative solutions that enhance the learning experience for everyone. 🌟
+* Building and scaling [Plany.Space](https://plany.space/), an AI-powered planning and productivity app
+* Learning and building AI systems and scalable products
+* Working with Python, JavaScript, TypeScript, Node.js, and Express.js
+* Using Git, GitHub, Docker, and AWS
+* Built projects like cli-share, AAYN, and PickUp
+* Writing about AI, startups, building, and technology
 
-### My Background 🌱
-I developed a strong foundation in Mathematics, Science, and computer science during my academic journey.  I participated in Google's AI Startup School, which ignited my ambition to create impactful technology solutions.
+### What I care about
 
+Build things that are genuinely useful.
+Learn deeply, not just quickly.
+Move fast without cutting corners.
 
-
-
-
+Website: https://sauravv.me
+GitHub: https://github.com/saurav-shakya
