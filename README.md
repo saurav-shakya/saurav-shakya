@@ -13,7 +13,7 @@ BTech Computer Science student, builder, and startup founder focused on AI, rese
 * Learning and building AI systems and scalable products
 * Working with Python, JavaScript, TypeScript, Node.js, and Express.js
 * Using Git, GitHub, Docker, and AWS
-* Built projects like cli-share, AAYN, and PickUp
+* Built projects like cli-share, AAYN,Neoyngpt-video-to-code and PickUp
 * Writing about AI, startups, building, and technology
 
 ### What I care about
