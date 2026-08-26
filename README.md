@@ -1,7 +1,4 @@
-
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=saurav-shakya&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=saurav-shakya&color=brightgreen&style=flat-square) [![GitViewsMap](https://vercel.app)](https://vercel.app)
 
 ---
 
@@ -18,9 +15,9 @@ BTech Computer Science student, builder, and startup founder focused on AI, rese
 
 ### What I care about
 
-Build things that are genuinely useful.
-Learn deeply, not just quickly.
-Move fast without cutting corners.
+Build things that are genuinely useful. Learn deeply, not just quickly. Move fast without cutting corners.
 
 Website: https://sauravv.me
 GitHub: https://github.com/saurav-shakya
+
+![Profile Views](https://komarev.com/ghpvc/?username=saurav-shakya&color=brightgreen&style=flat-square)
