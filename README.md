@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=saurav-shakya&color=brightgreen&style=flat-square) [![GitViewsMap](https://vercel.app)](https://vercel.app)
+![Profile Views](https://komarev.com/ghpvc/?username=saurav-shakya&color=brightgreen&style=flat-square) 
 
 ---
 
@@ -20,4 +20,4 @@ Build things that are genuinely useful. Learn deeply, not just quickly. Move fas
 Website: https://sauravv.me
 GitHub: https://github.com/saurav-shakya
 
-![Profile Views](https://komarev.com/ghpvc/?username=saurav-shakya&color=brightgreen&style=flat-square)
+
