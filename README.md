@@ -6,11 +6,11 @@
 
 BTech Computer Science student, builder, and startup founder focused on AI, research tools, and products people actually use.
 
-* Building and scaling [Plany.Space](https://plany.space/), an AI-powered planning and productivity app
+* Scaling [Plany](https://tryplany.com/), an AI-powered planning and productivity app
 * Learning and building AI systems and scalable products
 * Working with Python, JavaScript, TypeScript, Node.js, and Express.js
 * Using Git, GitHub, Docker, and AWS
-* Built projects like cli-share, AAYN,Neoyngpt-video-to-code and PickUp
+* Built projects like cli-share, AAYN,Neoyngpt-video-to-code
 * Writing about AI, startups, building, and technology
 
 ### What I care about
