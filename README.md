@@ -4,20 +4,15 @@
 
 # Hi, I'm Saurav
 
-BTech Computer Science student, builder, and startup founder focused on AI, research tools, and products people actually use.
+18, BTech CS student
 
-* Scaling [Plany](https://tryplany.com/), an AI-powered planning and productivity app
-* Learning and building AI systems and scalable products
-* Working with Python, JavaScript, TypeScript, Node.js, and Express.js
-* Using Git, GitHub, Docker, and AWS
-* Built projects like cli-share, AAYN,Neoyngpt-video-to-code
-* Writing about AI, startups, building, and technology
+- Building [Plany](https://tryplany.com/), an AI-powered planning app, backed by the Anthropic Startups Program and AWS Activate
+- Open source contributor to [google/agentmesh](https://github.com/google/agentmesh) (merged [PR #739](https://github.com/google/agentmesh/pull/739), JS SDK)
+- Built [cli-share](https://github.com/saurav-shakya/cli-share) (1300+ downloads), [NeoynGPT-video-to-code](https://github.com/saurav-shakya/NeoynGPT-video-to-code) (580+ npm downloads), [AAYN](https://github.com/saurav-shakya/AAYN)
+- Writing about AI, startups and building products
 
-### What I care about
+**Stack:** Python · JavaScript · TypeScript · Node.js · Docker · AWS
 
-Build things that are genuinely useful. Learn deeply, not just quickly. Move fast without cutting corners.
-
-Website: https://sauravv.me
-GitHub: https://github.com/saurav-shakya
+[sauravv.me](https://sauravv.me) · [X](https://x.com/sauravv_x) · [LinkedIn](https://www.linkedin.com/in/saurav-shakya) · hi@sauravv.me
 
 
